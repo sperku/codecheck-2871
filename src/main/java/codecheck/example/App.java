@@ -11,7 +11,7 @@ public class App {
   public static int getArgs (int param) {
   	if (param == 1) {
     	int value = 1;
-      	return int;
+      	return value;
     }
     else {
       int start = 1;
