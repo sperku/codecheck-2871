@@ -20,7 +20,7 @@ public class App {
           	start++;
         	String s = String.valueOf(end);
           	int i = 0;
-        	while (int i <= (s.length()-1)) {
+        	while (i <= (s.length()-1)) {
             	String str1 = s.substring(i, i + 1);
                	String str2 = s.substring(i + 1, i + 2);
               		if (str1 === str2 ){
