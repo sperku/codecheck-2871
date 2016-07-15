@@ -34,7 +34,7 @@ public class App {
               		}
               		else {
                       String ans;
-                      	if (i = 0) {
+                      	if (i == 0) {
                         int n = str1.length();
                        
                         }
